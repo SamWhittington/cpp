@@ -2,8 +2,7 @@
 #include <stdlib.h> //for random number generation
 
 /*
-Rock Paper Scissors Lizard Spock game
-From the Big Bang theory, put into a cpp program 
+Rock Paper Scissors game
 */
 
 int main() {
